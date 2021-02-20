@@ -81,7 +81,7 @@ nav ul {
 }
 .hero {
     min-height: 90vh;
-    background: linear-gradient(rgba(0,0,0, 0.9),transparent), url('../assets/img/landing-page.jpg');
+    background: linear-gradient(rgba(0,0,0, 0.9),transparent), url('https://robertshogan.imgix.net/assets/img/landing-page.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -99,7 +99,7 @@ nav ul {
 /* BENEFITS SECTION */
 #locations {
     min-height: 100vh;
-    background: linear-gradient(rgba(0,0,0, 0.5),transparent), url('../assets/img/new-york-page.png');
+    background: linear-gradient(rgba(0,0,0, 0.5),transparent), url('https://robertshogan.imgix.net/assets/img/new-york-page.png');
     background-size: cover;
     background-position: center;
     display: flex;
@@ -192,7 +192,7 @@ nav ul {
 
 #contact {
     min-height: 100vh;
-    background: linear-gradient(rgba(0,0,0, 0.5),transparent), url('../assets/img/contact-mountain.png');
+    background: linear-gradient(rgba(0,0,0, 0.5),transparent), url('https://robertshogan.imgix.net/assets/img/contact-mountain.png');
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
